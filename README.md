@@ -36,7 +36,7 @@ A sleek and interactive Smart Watch Product showcase website built as part of an
 
 ## 🌐 Live Preview
 
-[Click here to see the live demo](#) <!-- Replace # with your actual live preview link -->
+[Click here to see the live demo](https://smart-watch-product.netlify.app/) <!-- Replace # with your actual live preview link -->
 
 ## 📝 Note
 
