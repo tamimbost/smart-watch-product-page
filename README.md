@@ -52,4 +52,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Developed with ❤️ by [Si_Tamim]
+Developed with ❤️ by Si Tamim
