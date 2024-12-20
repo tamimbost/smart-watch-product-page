@@ -24,7 +24,7 @@ A sleek and interactive Smart Watch Product showcase website built as part of an
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/smart-watch-product.git
+   git clone https://github.com/tamimbost/smart-watch-product-page.git
    ```
 
 2. Navigate to the project directory:
@@ -52,4 +52,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Developed with ❤️ by [Si Tamim]
+Developed with ❤️ by [Si_Tamim]
